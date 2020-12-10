@@ -7,6 +7,10 @@ Web game application that uses C#, ASP.NET, HTML, and CSS and is based on the ga
 ```bash
 NuGet Package Manager (Visual Studio), .NET Core CLI
 ```
+## Clone Repository
+```bash
+git clone https://github.com/tngo98/Speculate.git
+```
 ## Install Dependencies
 ```bash
 npm install
