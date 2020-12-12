@@ -125,6 +125,7 @@
     <Content Include="maxGuessPage.aspx" />
     <Content Include="mystyle.css" />
     <Content Include="winPage.aspx" />
+    <None Include="Properties\PublishProfiles\SpeculateDemo - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="hiloStart.aspx" />
     <Content Include="Scripts\bootstrap.js" />
