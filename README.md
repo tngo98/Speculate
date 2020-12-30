@@ -5,10 +5,10 @@ Web game application that uses C#, ASP.NET, HTML, and CSS and is based on the ga
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### .NET Development
-This application requires Visual Studio 2019 to build, test, and deploy.
+This application requires [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) to build, test, and deploy. You will also need to setup a local server using [IIS](https://support.microsoft.com/en-ca/help/323972/how-to-set-up-your-first-iis-web-site) in order to run on your web browser.
 ### Using the application
 To use this application, clone the repository with
 ```bash
 git clone https://github.com/tngo98/Speculate.git
 ```
-You also need to ensure that your IIS Server is up and running.
+Open project with visual studio and run with IIS.
